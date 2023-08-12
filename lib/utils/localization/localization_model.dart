@@ -1,0 +1,147 @@
+import 'package:get/get.dart';
+
+class LocalizationModel extends Translations {
+  @override
+  Map<String, Map<String, String>> get keys => {
+        // English language Strings
+        'en_US': {
+          // signIn
+          'getStarted': "Let’s Get Started",
+          'registerNow': "Register Now",
+          'email': "Email",
+          'signIn': "SIGN IN",
+          'password': "Password",
+          'confirmPassword': "Confirm Password",
+          'forgotPassword': "Forgot Password?",
+          'or': "OR",
+          'signInFb': "Sign In with Facebook",
+          'signInApple': "Sign In with Apple ID",
+          'signInGoogle': "Sign In with Google",
+          'signIUpFb': "Sign Up with Facebook",
+          'signUpApple': "Sign Up with Apple ID",
+          'signUpGoogle': "Sign Up with Google",
+          'signUpHere': "SIGN UP HERE",
+          'registerToGetFreeTrial':
+              "Register and get a free trial period of Yoga training",
+
+          // SignUp
+          'backToSignIn': "Back to Sign In",
+          'registerNow': "Register Now",
+          'emailOrPhone': "Email or Phone",
+          'confirmPassword': "Confirm Password",
+          'signUpFb': "Sign Up with Facebook",
+          'signUpApple': "Sign Up with Apple ID",
+          'continue': "CONTINUE",
+          'generalQuestions': "General Questions",
+          'allfieldrequired': 'All Field Are Required',
+          'emailNotValid': 'Email is not valid',
+          'username': "Username",
+          'passwordShouldSame': "Password and confirm password should be same",
+          'note': "NOTE",
+          'trialTwoDays':
+              "2-Day Trial for users only Registering with Facebook.",
+
+          'age': "Age",
+          'gender': "Gender",
+          'level': "Level",
+          'weightLossGoal': "Weight Loss Goal",
+          'timeTarget': "Time Target",
+          'yogajourney': 'Start your yoga journey',
+          'save&Continue': "SAVE & CONTINUE",
+          "yourjourney": 'Continue your journey',
+          "desiredSocial": 'Select your desired social login',
+          'subscription': 'Subscription',
+          'yearly': 'Yearly',
+          'monthly': 'Monthly',
+          'peryear': 'Pre Year',
+          'permonth': 'Pre month',
+          'freeTrail': '2 Day Trial',
+          'cantAffordZenflow': "Can't Afford Zenflow",
+          'free': 'Free',
+          'freeTrailgives':
+              'Free trail gives you 2 days to enjoy Zenflow. So, you can practice yoga for free',
+          'cantAfford':
+              "Can't afford ZenFlow?' and then another screen for the 'Free Trial’  without any yearly/monthly plans.",
+          'privacyPolicy': 'Terms of User - Privacy Policy',
+          'next': 'Next',
+          'signUp': 'SIGN UP',
+          'payWithApple': 'Pay With Apple',
+          'payWithGoogle': 'Pay With Google',
+          'welcome': 'Welcome',
+          'meditationTopics': 'Meditation Topics',
+          'type': 'Type',
+          'selectTopic': 'Select Topic',
+          'selectmusic': 'Select Music',
+          'yogaStyle': 'Yoga Styles',
+          'yogatype': 'Yoga Type',
+          'savasana': 'Savasana',
+          'selectTime': 'Select Time',
+          'start': 'Start',
+          'stop': 'Stop',
+          'cancelTraining': 'Cancel Training',
+          'workoutTime': 'Work Out Time',
+          'shavasanaTime': 'Shavasana Time',
+          'congratulation': 'CONGRATULATIONS',
+          'trainingFailed': 'Training Failed',
+          'youburned': 'You completed your workout and burned',
+          'failedDiscription':
+              "Don't worry, buddy! The training will resume shortly. Your progress is awesome!",
+          'calories': 'calories',
+          'totalWorkoutTime': 'Total Workout Time',
+          'caloriesBurned': 'Calories Burned',
+          'continueToHome': 'Continue to home',
+          'planNextYoga': 'PLAN NEXT YOGA PRACTICE',
+          'selectedMonth': 'Selected Month',
+          'selectTime': 'Select Time',
+          'music': 'Music',
+          'musicGenre': 'Select a genre of music.',
+          'workoutCalender': 'Workout Calender',
+          'emailAlready': 'Email is already registered!',
+          'cantafford': "Can't afford Zenflow?",
+          'cantaffordDiscription':
+              "Our mission is to provide great affordable fitness to the world. If Zenflow isn't in your budget right now, send us a message explaining your situation and we'll see what we can do!",
+          'yourSituation': 'Tell us about your situation',
+          'savasanaExtend':
+              'Extend the duration of your final resting posture by incorporating additional time at the conclusion of your practice session.',
+
+          ///Questions
+          'q1-': "Q1- What’s your Age?",
+          'q2-': "Q2- What’s your Gender?",
+          'q3-': "Q3- What’s your Fitness Level?",
+          'q4-': "Q4- What’s your Weight Loss Goal?",
+          'q5-': "Q5- What’s your Daily Time Target?",
+          'practiceMethod': 'Select a method of practice',
+          'selectedMusic': 'Selected Music',
+          'pleaseSelectmusic': "Please select music for meditation",
+          'pleaseSelectYogaTopic': "Please select meditation for your video",
+          'pleaseSelectSavasanaTime': "Please select Savasana time",
+          'cancelTheTraining': 'Are you sure you want to cancel the training?',
+          'yes': 'Yes',
+          'no': 'No',
+          'scheduleYourWorkout': 'Schedule your workout',
+          'schedule': 'Schedule',
+          'pleaseSelectDate': 'Please select date to schedule workout',
+          'pleaseSelectCurrent': 'Please select current or upcomming date',
+          'pleaseSelectYear': 'Please select current or upcomming year',
+          'pleaseSelectMonth': 'Please select current or upcomming month',
+          'pleaseSelectDay': 'Please select current or upcomming day',
+          'workoutScheduled': 'Your Workout is Scheduled',
+          'intensityLevel': 'Intensity Level',
+          'yourExperience': 'Your experience with yoga?',
+          'selectintensity': 'Select Intensity',
+          'pleaseSelectIntensity': 'Please Select the Intensity Level',
+          'videoDoesNotExit': 'Video does not exits with this Intensity level',
+          'dateIsPassed':
+              'Apologies, the video cannot be played as the scheduled time has passed. It was supposed to be available on',
+          'dateIsInFuture':
+              'Apologies, the video cannot be played at the moment, It schedule to be available on',
+          'alreadyBeenDone': 'The workout has already been done.',
+          'sorryYouFailed': 'Sorry You failed to complete the workout',
+        },
+
+        // French language Strings
+        'fr_FR': {
+          'app_name': "login in French",
+        }
+      };
+}
