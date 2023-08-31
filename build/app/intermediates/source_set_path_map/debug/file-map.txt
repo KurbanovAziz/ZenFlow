@@ -1,0 +1,66 @@
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-emoji2-1.2.0-0 C:\Users\rippl\.gradle\caches\transforms-3\0222e2254396b1b9150e1228afb34f01\transformed\jetified-emoji2-1.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-appcompat-1.5.1-1 C:\Users\rippl\.gradle\caches\transforms-3\09c813ca8d2e9f4eb368a6f7b53545bc\transformed\appcompat-1.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-swiperefreshlayout-1.1.0-2 C:\Users\rippl\.gradle\caches\transforms-3\0b05345f1f7c5cf273d07461d0e69bc7\transformed\swiperefreshlayout-1.1.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-coordinatorlayout-1.0.0-3 C:\Users\rippl\.gradle\caches\transforms-3\0b91991dec4c6739c977be30f8fed520\transformed\coordinatorlayout-1.0.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-4 C:\Users\rippl\.gradle\caches\transforms-3\1364f3ea6ba9cbaaaa91a42bc4d5ae4d\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-security-crypto-1.1.0-alpha04-5 C:\Users\rippl\.gradle\caches\transforms-3\1ff892450dfa9c89c81b3c8eafd29b9a\transformed\jetified-security-crypto-1.1.0-alpha04\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-firebase-common-20.3.3-6 C:\Users\rippl\.gradle\caches\transforms-3\2528814b9b52397059036d2d3af844da\transformed\jetified-firebase-common-20.3.3\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-core-ktx-1.9.0-7 C:\Users\rippl\.gradle\caches\transforms-3\29f46bfcb75f07901c82292df2df5f26\transformed\jetified-core-ktx-1.9.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-webkit-1.5.0-8 C:\Users\rippl\.gradle\caches\transforms-3\2cc6f82fd36305426d982d958746affd\transformed\webkit-1.5.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-savedstate-1.2.0-9 C:\Users\rippl\.gradle\caches\transforms-3\33e4ff5f8f7acce004cba94259495d95\transformed\jetified-savedstate-1.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-play-services-base-18.0.1-10 C:\Users\rippl\.gradle\caches\transforms-3\36fd23bfc1144831a24a7d3df129c588\transformed\jetified-play-services-base-18.0.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-startup-runtime-1.1.1-11 C:\Users\rippl\.gradle\caches\transforms-3\37bd7a51fb0c62fded7f6095c4f8ad62\transformed\jetified-startup-runtime-1.1.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-window-1.0.0-beta04-12 C:\Users\rippl\.gradle\caches\transforms-3\3fcdb9800815717c11d1c32e9f42a83f\transformed\jetified-window-1.0.0-beta04\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-activity-1.5.1-13 C:\Users\rippl\.gradle\caches\transforms-3\4bbc1687437aa6641a29c4c99a595a25\transformed\jetified-activity-1.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-core-1.9.0-14 C:\Users\rippl\.gradle\caches\transforms-3\4c3de6b8956f5fcb133f34a9a2dd1f1e\transformed\core-1.9.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-window-java-1.0.0-beta04-15 C:\Users\rippl\.gradle\caches\transforms-3\58cdf5d908c15278824ec2e57e0891b9\transformed\jetified-window-java-1.0.0-beta04\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-facebook-share-16.2.0-16 C:\Users\rippl\.gradle\caches\transforms-3\5e178fb705f7ba09a1257cea07ec4354\transformed\jetified-facebook-share-16.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-lifecycle-livedata-core-2.5.1-17 C:\Users\rippl\.gradle\caches\transforms-3\62749a22af2cdb9b22f1d15f78dcede4\transformed\lifecycle-livedata-core-2.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-appcompat-resources-1.5.1-18 C:\Users\rippl\.gradle\caches\transforms-3\6f84fa3eb626f1a6d4f43017b22ae545\transformed\jetified-appcompat-resources-1.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-lifecycle-runtime-2.5.1-19 C:\Users\rippl\.gradle\caches\transforms-3\73d63e297ff391197c7a3668ba4e7e6f\transformed\lifecycle-runtime-2.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-lifecycle-viewmodel-2.5.1-20 C:\Users\rippl\.gradle\caches\transforms-3\76144ae4c594dd73cc5fbbeef48be60a\transformed\lifecycle-viewmodel-2.5.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-firebase-messaging-23.2.0-21 C:\Users\rippl\.gradle\caches\transforms-3\978935cee7b63c7bb010370428964358\transformed\jetified-firebase-messaging-23.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-facebook-login-16.2.0-22 C:\Users\rippl\.gradle\caches\transforms-3\9ea146101f68f0c5a7b84e54ad08bd51\transformed\jetified-facebook-login-16.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-exoplayer-core-2.18.7-23 C:\Users\rippl\.gradle\caches\transforms-3\a052907d42da0118f13043fb4b267b87\transformed\jetified-exoplayer-core-2.18.7\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-localbroadcastmanager-1.1.0-24 C:\Users\rippl\.gradle\caches\transforms-3\a1527fd1413f6ed42ef125b7b18aff85\transformed\localbroadcastmanager-1.1.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-play-services-auth-20.5.0-25 C:\Users\rippl\.gradle\caches\transforms-3\a32d33ccd55883af5155bd9ed7d58e34\transformed\jetified-play-services-auth-20.5.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-browser-1.4.0-26 C:\Users\rippl\.gradle\caches\transforms-3\c012756fd1f123cdf917a8d2a69569cb\transformed\browser-1.4.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-facebook-common-16.2.0-27 C:\Users\rippl\.gradle\caches\transforms-3\c17a321391606ee2d711deb702af0b96\transformed\jetified-facebook-common-16.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-cardview-1.0.0-28 C:\Users\rippl\.gradle\caches\transforms-3\d08cf38ba9dec0cde0500ac1ce8c7d71\transformed\cardview-1.0.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-lifecycle-process-2.4.1-29 C:\Users\rippl\.gradle\caches\transforms-3\d3213d7865cf8144e55386dcaba3e4e2\transformed\jetified-lifecycle-process-2.4.1\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-emoji2-views-helper-1.2.0-30 C:\Users\rippl\.gradle\caches\transforms-3\d8a8a00784e925f3e87f79d573dcc4a4\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-annotation-experimental-1.3.0-31 C:\Users\rippl\.gradle\caches\transforms-3\d9c2667e29028c7f25254588c3b66dd8\transformed\jetified-annotation-experimental-1.3.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-play-services-basement-18.2.0-32 C:\Users\rippl\.gradle\caches\transforms-3\ee3ca4a32b3802ebbcc9b37bbb29515a\transformed\jetified-play-services-basement-18.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-media-1.1.0-33 C:\Users\rippl\.gradle\caches\transforms-3\f45872809eb62496f08fe890fd6d34cb\transformed\media-1.1.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-jetified-facebook-messenger-16.2.0-34 C:\Users\rippl\.gradle\caches\transforms-3\f47122b226c8226ace877f11cdd0d818\transformed\jetified-facebook-messenger-16.2.0\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-fragment-1.3.6-35 C:\Users\rippl\.gradle\caches\transforms-3\ff32c07b7b4edc9518513a7e1f0ed17a\transformed\fragment-1.3.6\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-debug-36 C:\Users\rippl\AndroidStudioProjects\Zen Flow\android\app\src\debug\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-main-37 C:\Users\rippl\AndroidStudioProjects\Zen Flow\android\app\src\main\res
+com.yoga.flow.workout.go.beginners.weight.loss.app-google-services-38 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\generated\res\google-services\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-pngs-39 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\generated\res\pngs\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-resValues-40 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\generated\res\resValues\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-rs-41 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\generated\res\rs\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-mergeDebugResources-42 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.yoga.flow.workout.go.beginners.weight.loss.app-mergeDebugResources-43 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.yoga.flow.workout.go.beginners.weight.loss.app-merged_res-44 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\app\intermediates\merged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-45 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\audioplayers_android\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-46 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\cloud_firestore\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-47 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\dynamic_color\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-48 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\firebase_auth\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-49 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\firebase_core\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-50 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\firebase_dynamic_links\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-51 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\firebase_messaging\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-52 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\flutter_facebook_auth\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-53 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\flutter_inappwebview\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-54 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-55 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\flutter_secure_storage\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-56 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\flutter_share\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-57 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\fluttertoast\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-58 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\google_sign_in_android\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-59 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\path_provider_android\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-60 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\share_plus\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-61 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\shared_preferences_android\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-62 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\sqflite\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-63 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\url_launcher_android\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-64 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\video_player_android\intermediates\packaged_res\debug
+com.yoga.flow.workout.go.beginners.weight.loss.app-packaged_res-65 C:\Users\rippl\AndroidStudioProjects\Zen Flow\build\wakelock\intermediates\packaged_res\debug

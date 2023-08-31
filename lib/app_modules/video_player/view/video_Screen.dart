@@ -53,10 +53,10 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
         builder: (context, orientation) {
           if (orientation == Orientation.landscape) {
             _isFullScreen = true;
-            SystemChrome.setEnabledSystemUIOverlays([]);
+            SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersive, overlays: []);
           } else {
             _isFullScreen = false;
-            SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
+            SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge, overlays: SystemUiOverlay.values);
           }
 
           return Stack(

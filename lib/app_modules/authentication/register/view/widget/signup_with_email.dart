@@ -1,6 +1,3 @@
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:zen_flow/utils/Enums/enums.dart';
-
 import '../../../../../utils/app_imports/app_imports.dart';
 
 class SignUpWithEmail extends StatefulWidget {
@@ -88,7 +85,7 @@ class _SignUpWithEmailState extends State<SignUpWithEmail> {
             buttonColor: AppColors.PRIMARY_COLOR,
             textColor: AppColors.WHITE_COLOR,
             onTap: () {
-              registorWithEmail();
+              registerWithEmail();
             }),
         vSizedBox(height: Get.height * 0.04),
       ],
@@ -96,12 +93,12 @@ class _SignUpWithEmailState extends State<SignUpWithEmail> {
     ;
   }
 
-  registorWithEmail() {
+  registerWithEmail() {
     if (emailController.text == '' ||
         passwordController.text == '' ||
         usernameController.text == '' ||
         confirmwordController.text == '') {
-      customSnackBar(title: "allfieldrequired".tr);
+      customSnackBar(title: "prequalified".tr);
     } else {
       if (!GetUtils.isEmail(emailController.text)) {
         customSnackBar(title: "emailNotValid".tr);

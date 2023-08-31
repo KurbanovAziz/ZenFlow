@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yoga.flow.workout.go.beginners.weight.loss.app-mergeDebugResources-42:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rippl\\.gradle\\caches\\transforms-3\\09c813ca8d2e9f4eb368a6f7b53545bc\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

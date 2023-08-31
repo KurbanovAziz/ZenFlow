@@ -1,78 +1,33 @@
 {
   "project_info": {
-    "project_number": "579489075925",
-    "project_id": "zenflow-6747c",
-    "storage_bucket": "zenflow-6747c.appspot.com"
+    "project_number": "344084793645",
+    "project_id": "zenflowappyoga",
+    "storage_bucket": "zenflowappyoga.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:579489075925:android:ab234924249f690176c85c",
-        "android_client_info": {
-          "package_name": "com.digixvalley.zenflow"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "579489075925-g4i9b2eitdvd3k20qpfmv9q4l03gi2uu.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.digixvalley.zenflow",
-            "certificate_hash": "3dd6fba9a58dc16721c99b7014f354c3740f132a"
-          }
-        },
-        {
-          "client_id": "579489075925-lk73glmtu766fvmrjle0m5jr61nu2kso.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAeO23ejqe_sn2ds5CCB9rwGueSGYl0nWM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "579489075925-gr9qcshmrg80uekt6mtssoqpi94tlv3q.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:579489075925:android:7e04e461d50001ee76c85c",
+        "mobilesdk_app_id": "1:344084793645:android:f4e7295d1aabf3cff26ba4",
         "android_client_info": {
           "package_name": "com.yoga.flow.workout.go.beginners.weight.loss.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "579489075925-1drss4h75k9h5s8ka9njvenobtsv4iu2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.yoga.flow.workout.go.beginners.weight.loss.app",
-            "certificate_hash": "3dd6fba9a58dc16721c99b7014f354c3740f132a"
-          }
-        },
-        {
-          "client_id": "579489075925-lk73glmtu766fvmrjle0m5jr61nu2kso.apps.googleusercontent.com",
+          "client_id": "344084793645-tf4lpggh0o9or0m417ups5gpklq2439c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAeO23ejqe_sn2ds5CCB9rwGueSGYl0nWM"
+          "current_key": "AIzaSyCBYKpGcA7v6KVnud2zQweKZ8ktEDXRpPo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "579489075925-gr9qcshmrg80uekt6mtssoqpi94tlv3q.apps.googleusercontent.com",
+              "client_id": "344084793645-709lmg0utr5c87flcpii1iunhruali2e.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

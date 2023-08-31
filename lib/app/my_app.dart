@@ -1,11 +1,10 @@
 import 'package:toast/toast.dart';
 import 'package:zen_flow/app_modules/result/controller/dynamicLink_controller.dart';
-
-import '../config/binding_routing/app_pages.dart';
 import '../utils/app_imports/app_imports.dart';
 
 class MyApp extends StatefulWidget {
-  MyApp({Key? key}) : super(key: key);
+  const MyApp({Key? key}) : super(key: key);
+
 
   @override
   State<MyApp> createState() => _MyAppState();

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yoga.flow.workout.go.beginners.weight.loss.app-mergeDebugResources-42:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rippl\\.gradle\\caches\\transforms-3\\09c813ca8d2e9f4eb368a6f7b53545bc\\transformed\\appcompat-1.5.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -24,12 +24,12 @@ class _SplashViewState extends State<SplashView> {
 
   Future startAnimation() async {
     final prefs = await SharedPreferences.getInstance();
-    await Future.delayed(const Duration(milliseconds: 3500));
+    await Future.delayed(const Duration(milliseconds: 3000));
     setState(() {
       animate = true;
     });
 
-    await Future.delayed(const Duration(milliseconds: 3500));
+    await Future.delayed(const Duration(milliseconds: 3000));
     // Get.offAllNamed(Routes.loginView);
     if (prefs.getString(AppConstants.isLogin) == 'true') {
       Get.toNamed(Routes.homeView);

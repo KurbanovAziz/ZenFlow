@@ -48,7 +48,7 @@ class LoginView extends StatelessWidget {
                       ),
                       // vSizedBox(height: Get.height * 0.24),
                       AppText(
-                          text: 'yourjourney'.tr,
+                          text: 'your-journey'.tr,
                           color: AppColors.WHITE_COLOR,
                           fontWeight: FontWeight.w600,
                           size: AppDimensions.FONT_SIZE_28),
@@ -81,7 +81,7 @@ class LoginView extends StatelessWidget {
                           onTap: () {
                             if (emailController.text == '' ||
                                 passwordController.text == '') {
-                              customSnackBar(title: 'allfieldrequired'.tr);
+                              customSnackBar(title: 'prequalified'.tr);
                             } else {
                               if (!GetUtils.isEmail(emailController.text)) {
                                 customSnackBar(title: 'emailNotValid'.tr);
@@ -94,7 +94,7 @@ class LoginView extends StatelessWidget {
                       Align(
                         alignment: Alignment.center,
                         child: AppText(
-                            text: '---------- ' + 'or'.tr + ' ----------',
+                            text: '---------- ${'or'.tr} ----------',
                             color: AppColors.WHITE_COLOR,
                             fontWeight: FontWeight.w400,
                             size: AppDimensions.FONT_SIZE_16),

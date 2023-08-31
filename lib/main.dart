@@ -18,9 +18,8 @@ void main() async {
 
   // checkInternetConnection();
 
-  runApp(MyApp());
+  runApp(const MyApp());
 }
-
 
 /////youtube api key
 // AIzaSyDio2Rhov4uAyWt1YUZhoKu6FY_-OBK2qQ

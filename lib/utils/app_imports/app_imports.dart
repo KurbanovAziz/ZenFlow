@@ -1,5 +1,5 @@
 export 'dart:async';
-export 'dart:collection';
+export 'dart:collection' hide IterableExtensions;
 export 'dart:convert';
 export 'dart:math';
 

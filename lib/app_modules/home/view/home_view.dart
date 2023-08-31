@@ -3,7 +3,7 @@ import 'package:zen_flow/app_modules/home/view/widget/yoga_level.dart';
 import 'package:zen_flow/utils/app_imports/app_imports.dart';
 
 class HomeView extends StatefulWidget {
-  HomeView({super.key});
+  const HomeView({super.key});
 
   @override
   State<HomeView> createState() => _HomeViewState();

@@ -1,7 +1,5 @@
 import 'dart:io';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:zen_flow/app_modules/authentication/register/view/widget/signup_with_email.dart';
-import 'package:zen_flow/utils/Enums/enums.dart';
 
 import '../../../../Utils/app_imports/app_imports.dart';
 
@@ -60,7 +58,7 @@ class RegisterView extends StatelessWidget {
                       Align(
                         alignment: Alignment.center,
                         child: AppText(
-                            text: '---------- ' + 'or'.tr + ' ----------',
+                            text: '---------- ${'or'.tr} ----------',
                             color: AppColors.WHITE_COLOR,
                             fontWeight: FontWeight.w400,
                             size: AppDimensions.FONT_SIZE_16),

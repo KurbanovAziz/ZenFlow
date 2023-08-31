@@ -74,11 +74,11 @@ class _ResultViewState extends State<ResultView> {
                           color: AppColors.WHITE_COLOR,
                         ),
                         vSizedBox(height: 10),
-                        Container(
+                        SizedBox(
                           width: Get.width * 0.9,
                           child: AppText(
                               text: Get.arguments['yogaStatus'] == true
-                                  ? 'youburned'.tr + ' 198 ' + 'calories'.tr
+                                  ? '${'you-burned'.tr} 198 ${'calories'.tr}'
                                   : 'failedDiscription'.tr,
                               // size: AppDimensions.FONT_SIZE_30,
                               // fontWeight: FontWeight.bold,
